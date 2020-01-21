@@ -1,5 +1,5 @@
 # docker-compose-postgresql
-Docker compose to up PostgreSQL Database 11.1 A
+Docker compose to up PostgreSQL Database 11.1
 
 ### Create 
 ``` bash
